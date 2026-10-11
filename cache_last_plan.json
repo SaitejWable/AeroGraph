@@ -1,0 +1,25 @@
+{
+  "alert_level": "Critical Autonomous Action Required",
+  "root_cause_summary": "Severe winter temperature inversion trapping elevated vehicular combustion and regional biomass smoke at ground level under low atmospheric boundary layer.",
+  "commuter": {
+    "mask_recommendation": "N95 / FFP2 Respirator",
+    "departure_window_advice": "Defer non-essential morning outdoor travel until surface mixing layer lifts (optimal window: 13:00 - 15:30 IST).",
+    "transit_route_advice": "Prioritize subterranean Metro corridors over exposed arterial bypasses; maintain cabin HVAC on closed loop isolation."
+  },
+  "school": {
+    "recess_protocol": "Suspend Outdoor Activities",
+    "recess_guidance": "Immediately suspend all outdoor physical education, playground recesses, and open-air assemblies; direct students to indoor facilities.",
+    "ventilation_window_timing": "Maintain sealed envelope throughout morning hours; execute short filtered cross-ventilation only between 13:30 - 14:15 IST."
+  },
+  "facilities": {
+    "recirculation_mode": "Isolated Indoor Loop",
+    "pre_scrub_minutes": 60,
+    "damper_and_filtration_advice": "Clamp all external fresh-air AHU intake dampers to 0% (Isolated Loop) to prevent particulate ingress. Verify static filter differential pressure.",
+    "pre_scrub_advice": "Initiate high-efficiency HEPA/carbon filtration pre-scrub purge 60 minutes prior to shift changes."
+  },
+  "municipal": {
+    "source_action": "Enforce Water Mist-Cannons at Construction",
+    "civic_action_detail": "Deploy anti-smog mist cannons and high-pressure water tankers along upwind industrial and transport arteries.",
+    "target_corridor": "North-Northwest (NNW 330°) arterial transport corridor"
+  }
+}
